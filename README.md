@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Bem-vindo%20ao%20meu%20universo%20de-nl-%20código%20e%20inovação&section=header&textBg=false&animation=fadeIn&descAlignY=50&fontSize=50)](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Bem-vindo%20ao%20meu%20universo%20de-nl-%20código%20e%20inovação&section=header&textBg=false&animation=fadeIn&descAlignY=50&fontSize=50)https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Bem-vindo%20ao%20meu%20universo%20de-nl-%20código%20e%20inovação&section=header&textBg=false&animation=fadeIn&descAlignY=50&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Bem-vindo%20ao%20meu%20universo%20de-nl-%20código%20e%20inovação&section=header&textBg=false&animation=fadeIn&descAlignY=50&fontSize=50" />
 </p>
 <!---
 RodolphoHora/RodolphoHora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
